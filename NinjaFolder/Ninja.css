@@ -1,0 +1,97 @@
+.navbar-brand{
+    font-size: 30px;
+}
+#navbarNavDropdown{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul li {
+    font-size: 19px;
+    
+}
+.navbar{
+    border-bottom: 1px solid #ccc;
+   
+  
+}
+li{
+    color: crimson;
+    font-weight: 700
+}
+.navbar-brand{
+    background-color: crimson;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin-left: 70px;
+}
+marquee{
+    color: crimson;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.all{
+    margin:  0 70px;
+    border-bottom: 1px solid #ccc;
+    
+}
+.link a{
+    text-decoration: none;
+    color: black;
+}
+.link h1 {
+    font-weight: 200;
+    color: crimson;
+}
+button{
+    padding: 15px 20px;
+    border: 0;
+}
+.bodTitle{
+    margin: 0 300px;
+    text-align: left;
+}
+.Create{
+    max-width: 400px;
+    margin:  auto;
+    text-align: center;
+}
+.Create h1{
+    font-weight: 100;
+}
+.Create label{
+    text-align: left;
+    display: block;
+    font-size: 20px;
+}
+.Create h2{
+    color: crimson;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.Create input, .Create textarea, .Create select{
+    width: 100%;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+.Create button{
+    padding: 10px 15px;
+    background: crimson;
+    color: white;
+    border-radius: 8px;
+}
+textarea{
+    height: 100px;
+    resize: none;
+}
+.numlist{
+    color: black;
+    font-size: 30px;
+    font-weight: 400;
+}
+.errorPage{
+    text-align: center;
+}
